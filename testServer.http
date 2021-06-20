@@ -1,0 +1,10 @@
+GET http://127.0.0.1:1880/usuarios
+
+###
+
+POST http://127.0.0.1:1880/usuario
+content-type: application/json
+
+{
+    "nome": "sample"
+}
