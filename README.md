@@ -1,9 +1,11 @@
-Projeto básico com back end em node-red.
+Basic project - node-red and mongodb
+
+npm install
 
 sudo npm start
 http://127.0.0.1:1880/
 
-Possui um endpoint get para listar e um post para salvar
+endpoint GET to list and POST to save
 collection usuario
 base mongo agenda
 mongodb://127.0.0.1:27017/agenda
