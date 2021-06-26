@@ -133,12 +133,12 @@ module.exports = {
         type: "credentials",
         users: [{
             username: "root",
-            password: "$2y$12$VMST7PRjcnTOW4TopdFiO.jLHPrLf5iO.pGX1Wc0pO2yUXaflbRaO",  
+            password: "$2b$10$Zak4ayjpJL0Djv7O1kdlT.q96CIHkYSiLkIHh6IWms5Hvutw.QYQi",  //12341 
             permissions: "*"
         }
         ,{
-            username: "singleuser",
-            password: "$2y$12$k1L0FBZjSBZy2E.j3ejAg.TRGTwU2PNb/Tc5kzicfKmIRl9LqL.9G",
+            username: "user",
+            password: "$2b$10$huNIJ1vHfW2e1QaknqYCFuHnC/oKvSzIpdnnEdM.blmIX0AgqIohO", //123456
             permissions: "read"
         }
         ]
