@@ -47,7 +47,7 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-*.config*.json
+#*.config*.json
 *lock.json
 
 *.backup
