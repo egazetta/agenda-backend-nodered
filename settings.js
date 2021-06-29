@@ -196,7 +196,12 @@ module.exports = {
     // See https://github.com/troygoode/node-cors#configuration-options for
     // details on its contents. The following is a basic permissive set of options:
     httpNodeCors: {
-        origin: "https://agenda-frontend-react.herokuapp.com",
+        origin: [
+            "https://agenda-frontend-react.herokuapp.com", 
+            "https://agenda-frontend-angular.herokuapp.com", 
+            "https://agenda-frontend-angular.stackblitz.io",
+            "https://agenda-frontend-react.stackblitz.io"
+        ],
         methods: "GET,PUT,POST,DELETE"
     },
 
