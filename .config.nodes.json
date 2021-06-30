@@ -14,7 +14,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/20-inject.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/20-inject.js"
             },
             "debug": {
                 "name": "debug",
@@ -25,7 +25,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/21-debug.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/21-debug.js"
             },
             "complete": {
                 "name": "complete",
@@ -36,7 +36,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/24-complete.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/24-complete.js"
             },
             "catch": {
                 "name": "catch",
@@ -47,7 +47,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/25-catch.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/25-catch.js"
             },
             "status": {
                 "name": "status",
@@ -58,7 +58,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/25-status.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/25-status.js"
             },
             "link": {
                 "name": "link",
@@ -70,7 +70,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/60-link.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/60-link.js"
             },
             "comment": {
                 "name": "comment",
@@ -81,7 +81,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/90-comment.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/90-comment.js"
             },
             "unknown": {
                 "name": "unknown",
@@ -92,7 +92,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/98-unknown.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/common/98-unknown.js"
             },
             "function": {
                 "name": "function",
@@ -103,7 +103,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/10-function.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/10-function.js"
             },
             "switch": {
                 "name": "switch",
@@ -114,7 +114,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/10-switch.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/10-switch.js"
             },
             "change": {
                 "name": "change",
@@ -125,7 +125,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/15-change.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/15-change.js"
             },
             "range": {
                 "name": "range",
@@ -136,7 +136,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/16-range.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/16-range.js"
             },
             "template": {
                 "name": "template",
@@ -147,7 +147,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/80-template.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/80-template.js"
             },
             "delay": {
                 "name": "delay",
@@ -158,7 +158,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/89-delay.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/89-delay.js"
             },
             "trigger": {
                 "name": "trigger",
@@ -169,7 +169,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/89-trigger.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/89-trigger.js"
             },
             "exec": {
                 "name": "exec",
@@ -180,7 +180,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/90-exec.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/function/90-exec.js"
             },
             "tls": {
                 "name": "tls",
@@ -191,7 +191,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/05-tls.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/05-tls.js"
             },
             "httpproxy": {
                 "name": "httpproxy",
@@ -202,7 +202,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/06-httpproxy.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/06-httpproxy.js"
             },
             "mqtt": {
                 "name": "mqtt",
@@ -215,7 +215,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/10-mqtt.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/10-mqtt.js"
             },
             "httpin": {
                 "name": "httpin",
@@ -227,7 +227,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/21-httpin.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/21-httpin.js"
             },
             "httprequest": {
                 "name": "httprequest",
@@ -238,7 +238,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/21-httprequest.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/21-httprequest.js"
             },
             "websocket": {
                 "name": "websocket",
@@ -252,7 +252,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/22-websocket.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/22-websocket.js"
             },
             "tcpin": {
                 "name": "tcpin",
@@ -265,7 +265,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/31-tcpin.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/31-tcpin.js"
             },
             "udp": {
                 "name": "udp",
@@ -277,7 +277,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/32-udp.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/network/32-udp.js"
             },
             "CSV": {
                 "name": "CSV",
@@ -288,7 +288,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/parsers/70-CSV.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/parsers/70-CSV.js"
             },
             "HTML": {
                 "name": "HTML",
@@ -299,7 +299,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/parsers/70-HTML.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/parsers/70-HTML.js"
             },
             "JSON": {
                 "name": "JSON",
@@ -310,7 +310,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/parsers/70-JSON.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/parsers/70-JSON.js"
             },
             "XML": {
                 "name": "XML",
@@ -321,7 +321,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/parsers/70-XML.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/parsers/70-XML.js"
             },
             "YAML": {
                 "name": "YAML",
@@ -332,7 +332,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/parsers/70-YAML.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/parsers/70-YAML.js"
             },
             "split": {
                 "name": "split",
@@ -344,7 +344,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/sequence/17-split.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/sequence/17-split.js"
             },
             "sort": {
                 "name": "sort",
@@ -355,7 +355,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/sequence/18-sort.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/sequence/18-sort.js"
             },
             "batch": {
                 "name": "batch",
@@ -366,7 +366,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/sequence/19-batch.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/sequence/19-batch.js"
             },
             "file": {
                 "name": "file",
@@ -378,7 +378,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/storage/10-file.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/storage/10-file.js"
             },
             "watch": {
                 "name": "watch",
@@ -389,7 +389,7 @@
                 "local": false,
                 "user": false,
                 "module": "node-red",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/@node-red/nodes/core/storage/23-watch.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/@node-red/nodes/core/storage/23-watch.js"
             }
         }
     },
@@ -409,7 +409,7 @@
                 "local": true,
                 "user": false,
                 "module": "node-red-contrib-mongoose",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/node-red-contrib-mongoose/mongooseop.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/node-red-contrib-mongoose/mongooseop.js"
             },
             "mongooseModel": {
                 "name": "mongooseModel",
@@ -420,7 +420,7 @@
                 "local": true,
                 "user": false,
                 "module": "node-red-contrib-mongoose",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/node-red-contrib-mongoose/mongoosemodel.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/node-red-contrib-mongoose/mongoosemodel.js"
             }
         }
     },
@@ -439,7 +439,7 @@
                 "local": true,
                 "user": false,
                 "module": "node-red-contrib-validator",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/node-red-contrib-validator/validator.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/node-red-contrib-validator/validator.js"
             }
         }
     },
@@ -458,7 +458,7 @@
                 "local": true,
                 "user": false,
                 "module": "node-red-contrib-wlogger",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/node-red-contrib-wlogger/logger.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/node-red-contrib-wlogger/logger.js"
             }
         }
     },
@@ -477,7 +477,7 @@
                 "local": true,
                 "user": false,
                 "module": "node-red-node-rbe",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/node-red-node-rbe/rbe.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/node-red-node-rbe/rbe.js"
             }
         }
     },
@@ -496,7 +496,26 @@
                 "local": true,
                 "user": false,
                 "module": "node-red-node-tail",
-                "file": "/Users/tonmarcondes/angular/agenda-backend-nodered/node_modules/node-red-node-tail/28-tail.js"
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/node-red-node-tail/28-tail.js"
+            }
+        }
+    },
+    "node-red-node-base64": {
+        "name": "node-red-node-base64",
+        "version": "0.3.0",
+        "local": true,
+        "user": false,
+        "nodes": {
+            "base64": {
+                "name": "base64",
+                "types": [
+                    "base64"
+                ],
+                "enabled": true,
+                "local": true,
+                "user": false,
+                "module": "node-red-node-base64",
+                "file": "/Users/egazetta/develop/github/agenda-backend-nodered/node_modules/node-red-node-base64/70-base64.js"
             }
         }
     }
